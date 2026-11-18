@@ -1,4 +1,4 @@
-# GeocoderUpdater CLI (DEV-4672)
+# GeocoderUpdate CLI 
 
 A standalone .NET 10 command-line interface (CLI) tool for idempotently upserting geocoder centroid records from CSV files into the PostgreSQL `geocode_data` database.
 
