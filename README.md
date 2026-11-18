@@ -32,6 +32,7 @@ By default, the utility expects shapefiles to be located in:
 ```text
 C:\Data-Pipeline\staging\MBI_US_R2026
 ```
+*This is subject to change depending on the file path to the source data on each computer*
 
 Each dataset must include the four core shapefile components (`.shp`, `.shx`, `.dbf`, `.prj`):
 * `MBI_US_R2026_States.shp`
