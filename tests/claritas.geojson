@@ -1,0 +1,15 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {"ID": "02120", "PO_NAME": "Boston", "CITY_NAME": "Boston"},
+      "geometry": {"type": "Polygon", "coordinates": [[[-71.1,42.32],[-71.08,42.32],[-71.08,42.34],[-71.1,42.34],[-71.1,42.32]]]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"ID": "2121", "PO_NAME": "Boston", "CITY_NAME": "Boston"},
+      "geometry": {"type": "Polygon", "coordinates": [[[-71.08,42.30],[-71.06,42.32],[-71.06,42.30],[-71.08,42.32],[-71.08,42.30]]]}
+    }
+  ]
+}
